@@ -1,1 +1,0 @@
-# shindo_integrated_website.1
